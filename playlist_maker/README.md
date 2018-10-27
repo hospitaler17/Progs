@@ -1,4 +1,4 @@
-###Discord music bot playlist maker on *python*
+##Discord music bot playlist maker on *python*
 
 
 **Input**: music titles
